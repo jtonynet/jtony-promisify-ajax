@@ -1,9 +1,12 @@
 {
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "gulp": "^3.9.1",
-    "gulp-istanbul": "^1.1.1",
-    "gulp-load-plugins": "^1.5.0",
-    "gulp-mocha": "^4.3.0"
-  }
+    "dependencies": {
+        "express": "3.4.7"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "gulp": "^3.9.1",
+        "gulp-istanbul": "^1.1.1",
+        "gulp-load-plugins": "^1.5.0",
+        "gulp-mocha": "^4.3.0"
+    }
 }
